@@ -30,6 +30,8 @@
 #include <stdint.h>
 #include <math.h>
 
+typedef float float_t;
+
 /** @addtogroup LSM6DS3TR_C
   * @{
   *
